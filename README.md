@@ -4,7 +4,7 @@
 
 > We propose a new theory for aging based on dynamical systems and provide a data-driven computational method to quantify the changes at the cellular level. To quantify the dissipation dynamics, we employ a transformer-based machine learning algorithm to analyze gene expression data, incorporating age as a token to assess how age-related dissipation is reflected in the embedding space. By evaluating the dynamics of gene and age embeddings, we provide a cellular aging map (CAM) and identify patterns indicative of divergence in gene embedding space, nonlinear transitions, and entropy variations during aging for various tissues and cell types.
 
-![Cellular Aging Map for Muscle Cells](notebooks/figures/figure1.png)  
+![Cellular Aging Map for Muscle Cells](notebooks/figures/figure1.pdf)  
 
 This repository contains the model training code, embedding extraction, Hopf decomposition and entropy calculation from the paper. As well as notebooks to generate figures.
 
