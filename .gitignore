@@ -168,7 +168,7 @@ cython_debug/
 gene_data/logs/checkpoints_multi
 gene_data
 /api_key
-*.png
+#*.png
 # *.json
 configs/.DS_Store
 
